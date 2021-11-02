@@ -1,0 +1,87 @@
+.logo {
+    background-color: #86A873;
+    padding-block: 21px;
+}
+
+.logo img {
+    width: 100px;
+    display: block;
+    margin-inline: auto;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-style: normal;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 10px;
+    background-color: #5AAA95;
+
+    color: #095256;
+
+}
+
+header {
+    margin-bottom: 130px;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: normal;
+    text-transform: uppercase;
+    background-color: #5AAA95;
+
+    color: #095256;
+}
+
+li span, li p {
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.personal-data-label {
+    font-style: italic;
+    font-weight: 700;
+}
+.year-range {
+    font-weight: 700;
+}
+
+.academic-bg-ul, .work-experience-ul {
+    list-style-type: none;
+}
+
+footer{
+    text-align: center;
+    background-color: #BB9F06;
+    margin-top: 130px;
+    padding-block: 12px;
+}
+
+
+footer span {
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    color: #ffffff;
+    font-size: 20px;
+    height: 20px;
+}
+
+footer a {
+    height: 20px;
+    width: 20px;
+}
+
+footer img {
+    height: 100%;
+}
+
+#instagram {
+    margin-inline: 12px;
+}
+
