@@ -23,7 +23,7 @@ h1 {
 }
 
 header {
-    margin-bottom: 130px;
+    margin-bottom: 80px;
 }
 
 h2 {
@@ -53,12 +53,19 @@ li span, li p {
 
 .academic-bg-ul, .work-experience-ul {
     list-style-type: none;
+    padding-inline-start: 20px;
+
+}
+
+ul li p {
+    padding-inline-start: 76px;
+    margin-block: 0;
 }
 
 footer{
     text-align: center;
     background-color: #BB9F06;
-    margin-top: 130px;
+    margin-top: 80px;
     padding-block: 12px;
 }
 
